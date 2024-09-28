@@ -1,3 +1,5 @@
+Note: Also checked button color accessibility using whocanuse.com before posting, as green is NOTORIOUSLY bad at meeting color accessiblity with white text.
+
 # Code:You Intro Final Repo
 
 **This assignment has *multiple* steps. Please *read* the steps *completely* and *thoroughly*. You may need to review, research, problem solve, and ask questions.**
